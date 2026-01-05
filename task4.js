@@ -1,6 +1,12 @@
 // Type your code below this line!
 
+function Journey(from, to){
+    this.start = from,
+    this.end = to
+}
 
+const from = "metro";
+const to = "casa";
 
 // Type your code above this line!
 
